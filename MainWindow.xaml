@@ -80,7 +80,7 @@
             Grid.Column="2"
             Grid.Row="2"
             >
-            <Button Style="{DynamicResource ButtonTemplate1}">Przycisk 1</Button>
+            <Button Style="{DynamicResource ButtonTemplate1}">Przycisk specjalny</Button>
             <Button>Przycisk 2</Button>
             <Button>Przycisk 3</Button>
             <Button>Przycisk 4</Button>
